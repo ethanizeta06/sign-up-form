@@ -1,0 +1,18 @@
+html {
+    padding: 0;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+}
+body {
+    display: flex;
+}
+.signup-bg {
+    width: 40vw;
+    height: 100vh;
+    background-image: url(./Sign-up-bgImage.png);
+}
+.signup-form {
+    width: 60vw;
+    height: 100vh;
+}
